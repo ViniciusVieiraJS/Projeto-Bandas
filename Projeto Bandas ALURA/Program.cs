@@ -7,7 +7,15 @@
 string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
 
 // Criar Listas
-List<string> listaDasBandas = new List<string> { "Alice in Chains", "Stone Temple Pilots", "Audioslave" };
+/*List<string> listaDasBandas = new List<string> { "Alice in Chains", "Stone Temple Pilots", "Audioslave" };*/
+
+// Dicionário - do tipo String em que os valores são uma lista (no caso, as notas)
+Dictionary<string, List<int>> bandasRegistradas = new Dictionary<string, List<int>>();
+// Criando as bandas no dicionário com nota
+bandasRegistradas.Add("Linkin Park", new List<int> { 10, 8, 6 });
+// Criando as bandas no dicionário sem nota
+bandasRegistradas.Add("The Beatles", new List<int>());
+
 
 
 
@@ -45,6 +53,7 @@ void ExibirOpcoesDoMenu()
 {
 
     // \n dá um espaço de uma linha
+    ExibirLogo();
     Console.WriteLine("\nDigite 1 para registrar uma banda");
     Console.WriteLine("Digite 2 para mostrar todas as bandas");
     Console.WriteLine("Digite 3 para avaliar uma banda");
@@ -77,7 +86,7 @@ void ExibirOpcoesDoMenu()
             MostrarBandasRegistradas();
             break;
         case 3:
-            Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNumerica);
+            AvaliarUmaBanda();
             break;
         case 4:
             Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNumerica);
@@ -101,12 +110,12 @@ void RegistrarBanda()
 
     Console.Write("Digite o nome da banda que você quer registrar: ");
     string nomeBanda = Console.ReadLine()!;
-    listaDasBandas.Add(nomeBanda);
+    // Adicionar as bandas ao dicionário, ainda criando uma lista para as notas
+    bandasRegistradas.Add(nomeBanda, new List<int>());
     Console.WriteLine($"A banda {nomeBanda} foi registrada com sucesso!");
     // Thread.Sleep é semelhante ao setTimeout!
     Thread.Sleep(2000);
     Console.Clear();
-    ExibirLogo();
     ExibirOpcoesDoMenu();
 }
 
@@ -124,7 +133,8 @@ void MostrarBandasRegistradas()
 
     // foreach = para cada elemento da lista
     // primeiro você representa a váriavel | in | depois declarar a variável que representa a lista
-    foreach (string banda in listaDasBandas)
+    // Keys seriam as BANDAS. É necessário essa especificação se tratando de dicionários
+    foreach (string banda in bandasRegistradas.Keys)
     {
 
         Console.WriteLine($"Banda: {banda}");
@@ -133,7 +143,7 @@ void MostrarBandasRegistradas()
     Console.WriteLine("Digite uma tecla para voltar ao menu");
     Console.ReadKey(); // aceita qualquer tecla;
     Console.Clear();
-    ExibirLogo();
+
     ExibirOpcoesDoMenu();
 
 
@@ -153,6 +163,38 @@ void ExibirTituloDaOpcao(string titulo)
     Console.WriteLine(asteriscos + "\n");
 }
 
-ExibirLogo();
+void AvaliarUmaBanda()
+{
+    // Digite qual banda deseja avaliar
+    // Se a banda existir no dicionário >> atribuir uma nota
+    // senão, volta ao menu principal
+
+    Console.Clear();
+    ExibirTituloDaOpcao("Avaliar banda");
+    Console.Write("Digite o nome da banda que deseja avaliar: ");
+    string nomeDaBanda = Console.ReadLine()!;
+    if (bandasRegistradas.ContainsKey(nomeDaBanda))
+    {
+        Console.Write($"Qual a nota que a banda {nomeDaBanda} merece: ");
+        int nota = int.Parse(Console.ReadLine()!);
+        // Entre colchetes fica a banda que foi avaliada, após isso é adicionada a essa banda a sua respectiva nota com .Add(variavelDaNota)
+        bandasRegistradas[nomeDaBanda].Add(nota);
+        Console.WriteLine($"\nA nota {nota} foi registrada com sucesso para a banda {nomeDaBanda}");
+        Thread.Sleep(2000);
+        Console.Clear();
+        ExibirOpcoesDoMenu();
+
+    }
+    else
+    {
+        Console.WriteLine($"A banda {nomeDaBanda} não foi encontrada");
+        Console.WriteLine("Digite uma tecla para voltar ao menu principal");
+        Console.ReadKey();
+        Console.Clear();
+        ExibirOpcoesDoMenu();
+    }
+}
+
+
 ExibirOpcoesDoMenu();
 
