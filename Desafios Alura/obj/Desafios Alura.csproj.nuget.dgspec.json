@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alfa User\\source\\repos\\Desafios Alura\\Desafios Alura.csproj": {}
+    "C:\\Users\\Alfa User\\source\\repos\\Projeto-Bandas\\Desafios Alura\\Desafios Alura.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alfa User\\source\\repos\\Desafios Alura\\Desafios Alura.csproj": {
+    "C:\\Users\\Alfa User\\source\\repos\\Projeto-Bandas\\Desafios Alura\\Desafios Alura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alfa User\\source\\repos\\Desafios Alura\\Desafios Alura.csproj",
+        "projectUniqueName": "C:\\Users\\Alfa User\\source\\repos\\Projeto-Bandas\\Desafios Alura\\Desafios Alura.csproj",
         "projectName": "Desafios Alura",
-        "projectPath": "C:\\Users\\Alfa User\\source\\repos\\Desafios Alura\\Desafios Alura.csproj",
+        "projectPath": "C:\\Users\\Alfa User\\source\\repos\\Projeto-Bandas\\Desafios Alura\\Desafios Alura.csproj",
         "packagesPath": "C:\\Users\\Alfa User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alfa User\\source\\repos\\Desafios Alura\\obj\\",
+        "outputPath": "C:\\Users\\Alfa User\\source\\repos\\Projeto-Bandas\\Desafios Alura\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

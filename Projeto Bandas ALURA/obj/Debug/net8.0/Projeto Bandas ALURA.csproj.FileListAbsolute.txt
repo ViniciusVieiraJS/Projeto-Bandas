@@ -1,0 +1,15 @@
+C:\Users\Alfa User\source\repos\Projeto-Bandas\Projeto Bandas ALURA\bin\Debug\net8.0\Projeto Bandas ALURA.exe
+C:\Users\Alfa User\source\repos\Projeto-Bandas\Projeto Bandas ALURA\bin\Debug\net8.0\Projeto Bandas ALURA.deps.json
+C:\Users\Alfa User\source\repos\Projeto-Bandas\Projeto Bandas ALURA\bin\Debug\net8.0\Projeto Bandas ALURA.runtimeconfig.json
+C:\Users\Alfa User\source\repos\Projeto-Bandas\Projeto Bandas ALURA\bin\Debug\net8.0\Projeto Bandas ALURA.dll
+C:\Users\Alfa User\source\repos\Projeto-Bandas\Projeto Bandas ALURA\bin\Debug\net8.0\Projeto Bandas ALURA.pdb
+C:\Users\Alfa User\source\repos\Projeto-Bandas\Projeto Bandas ALURA\obj\Debug\net8.0\Projeto Bandas ALURA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa User\source\repos\Projeto-Bandas\Projeto Bandas ALURA\obj\Debug\net8.0\Projeto Bandas ALURA.AssemblyInfoInputs.cache
+C:\Users\Alfa User\source\repos\Projeto-Bandas\Projeto Bandas ALURA\obj\Debug\net8.0\Projeto Bandas ALURA.AssemblyInfo.cs
+C:\Users\Alfa User\source\repos\Projeto-Bandas\Projeto Bandas ALURA\obj\Debug\net8.0\Projeto Bandas ALURA.csproj.CoreCompileInputs.cache
+C:\Users\Alfa User\source\repos\Projeto-Bandas\Projeto Bandas ALURA\obj\Debug\net8.0\Projeto Bandas ALURA.sourcelink.json
+C:\Users\Alfa User\source\repos\Projeto-Bandas\Projeto Bandas ALURA\obj\Debug\net8.0\Projeto Bandas ALURA.dll
+C:\Users\Alfa User\source\repos\Projeto-Bandas\Projeto Bandas ALURA\obj\Debug\net8.0\refint\Projeto Bandas ALURA.dll
+C:\Users\Alfa User\source\repos\Projeto-Bandas\Projeto Bandas ALURA\obj\Debug\net8.0\Projeto Bandas ALURA.pdb
+C:\Users\Alfa User\source\repos\Projeto-Bandas\Projeto Bandas ALURA\obj\Debug\net8.0\Projeto Bandas ALURA.genruntimeconfig.cache
+C:\Users\Alfa User\source\repos\Projeto-Bandas\Projeto Bandas ALURA\obj\Debug\net8.0\ref\Projeto Bandas ALURA.dll

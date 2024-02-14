@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alfa User\\source\\repos\\Desafio Listas\\Desafio Listas.csproj",
+      "projectUniqueName": "C:\\Users\\Alfa User\\source\\repos\\Projeto-Bandas\\Desafio Listas\\Desafio Listas.csproj",
       "projectName": "Desafio Listas",
-      "projectPath": "C:\\Users\\Alfa User\\source\\repos\\Desafio Listas\\Desafio Listas.csproj",
+      "projectPath": "C:\\Users\\Alfa User\\source\\repos\\Projeto-Bandas\\Desafio Listas\\Desafio Listas.csproj",
       "packagesPath": "C:\\Users\\Alfa User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alfa User\\source\\repos\\Desafio Listas\\obj\\",
+      "outputPath": "C:\\Users\\Alfa User\\source\\repos\\Projeto-Bandas\\Desafio Listas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,4 +1,4 @@
-﻿//// EXERCÍCIO 1
+﻿/*//// EXERCÍCIO 1
 
 //void CalculosMatematicos()
 //{
@@ -82,20 +82,20 @@
 //Console.WriteLine(soma);
 
 // FAÇA COMO EU FIZ
-/*
+
 List<int> numerosInteiros = new List<int> { 1, 2, 3, 5, 7, 10, 11, 14, 15, 20 };
 
-*//*for (int i = 0; i < numerosInteiros.Count; i++)
+for (int i = 0; i < numerosInteiros.Count; i++)
 {
     int numeroAtual = numerosInteiros[i];
     if (numeroAtual % 2 == 0)
         Console.WriteLine(numeroAtual);
-}*//*
+}
 
 
 foreach (int i in numerosInteiros)
 {
-    if (i % 2 == 0) 
+    if (i % 2 == 0)
         Console.WriteLine(i);
 }
 */
