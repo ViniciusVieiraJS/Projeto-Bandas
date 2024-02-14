@@ -1,0 +1,14 @@
+C:\Users\Alfa User\source\repos\C# Alura\C# Alura\bin\Debug\net8.0\C# Alura.exe
+C:\Users\Alfa User\source\repos\C# Alura\C# Alura\bin\Debug\net8.0\C# Alura.deps.json
+C:\Users\Alfa User\source\repos\C# Alura\C# Alura\bin\Debug\net8.0\C# Alura.runtimeconfig.json
+C:\Users\Alfa User\source\repos\C# Alura\C# Alura\bin\Debug\net8.0\C# Alura.dll
+C:\Users\Alfa User\source\repos\C# Alura\C# Alura\bin\Debug\net8.0\C# Alura.pdb
+C:\Users\Alfa User\source\repos\C# Alura\C# Alura\obj\Debug\net8.0\C# Alura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa User\source\repos\C# Alura\C# Alura\obj\Debug\net8.0\C# Alura.AssemblyInfoInputs.cache
+C:\Users\Alfa User\source\repos\C# Alura\C# Alura\obj\Debug\net8.0\C# Alura.AssemblyInfo.cs
+C:\Users\Alfa User\source\repos\C# Alura\C# Alura\obj\Debug\net8.0\C# Alura.csproj.CoreCompileInputs.cache
+C:\Users\Alfa User\source\repos\C# Alura\C# Alura\obj\Debug\net8.0\C# Alura.dll
+C:\Users\Alfa User\source\repos\C# Alura\C# Alura\obj\Debug\net8.0\refint\C# Alura.dll
+C:\Users\Alfa User\source\repos\C# Alura\C# Alura\obj\Debug\net8.0\C# Alura.pdb
+C:\Users\Alfa User\source\repos\C# Alura\C# Alura\obj\Debug\net8.0\C# Alura.genruntimeconfig.cache
+C:\Users\Alfa User\source\repos\C# Alura\C# Alura\obj\Debug\net8.0\ref\C# Alura.dll

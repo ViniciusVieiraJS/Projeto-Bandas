@@ -1,0 +1,14 @@
+C:\Users\Alfa User\source\repos\Aprendendo C#\Aprendendo C#\bin\Debug\net8.0\Aprendendo C#.exe
+C:\Users\Alfa User\source\repos\Aprendendo C#\Aprendendo C#\bin\Debug\net8.0\Aprendendo C#.deps.json
+C:\Users\Alfa User\source\repos\Aprendendo C#\Aprendendo C#\bin\Debug\net8.0\Aprendendo C#.runtimeconfig.json
+C:\Users\Alfa User\source\repos\Aprendendo C#\Aprendendo C#\bin\Debug\net8.0\Aprendendo C#.dll
+C:\Users\Alfa User\source\repos\Aprendendo C#\Aprendendo C#\bin\Debug\net8.0\Aprendendo C#.pdb
+C:\Users\Alfa User\source\repos\Aprendendo C#\Aprendendo C#\obj\Debug\net8.0\Aprendendo C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa User\source\repos\Aprendendo C#\Aprendendo C#\obj\Debug\net8.0\Aprendendo C#.AssemblyInfoInputs.cache
+C:\Users\Alfa User\source\repos\Aprendendo C#\Aprendendo C#\obj\Debug\net8.0\Aprendendo C#.AssemblyInfo.cs
+C:\Users\Alfa User\source\repos\Aprendendo C#\Aprendendo C#\obj\Debug\net8.0\Aprendendo C#.csproj.CoreCompileInputs.cache
+C:\Users\Alfa User\source\repos\Aprendendo C#\Aprendendo C#\obj\Debug\net8.0\Aprendendo C#.dll
+C:\Users\Alfa User\source\repos\Aprendendo C#\Aprendendo C#\obj\Debug\net8.0\refint\Aprendendo C#.dll
+C:\Users\Alfa User\source\repos\Aprendendo C#\Aprendendo C#\obj\Debug\net8.0\Aprendendo C#.pdb
+C:\Users\Alfa User\source\repos\Aprendendo C#\Aprendendo C#\obj\Debug\net8.0\Aprendendo C#.genruntimeconfig.cache
+C:\Users\Alfa User\source\repos\Aprendendo C#\Aprendendo C#\obj\Debug\net8.0\ref\Aprendendo C#.dll

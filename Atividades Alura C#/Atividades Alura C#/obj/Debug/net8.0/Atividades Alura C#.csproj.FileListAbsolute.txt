@@ -1,0 +1,14 @@
+C:\Users\Alfa User\source\repos\Atividades Alura C#\Atividades Alura C#\obj\Debug\net8.0\Atividades Alura C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa User\source\repos\Atividades Alura C#\Atividades Alura C#\obj\Debug\net8.0\Atividades Alura C#.AssemblyInfoInputs.cache
+C:\Users\Alfa User\source\repos\Atividades Alura C#\Atividades Alura C#\obj\Debug\net8.0\Atividades Alura C#.AssemblyInfo.cs
+C:\Users\Alfa User\source\repos\Atividades Alura C#\Atividades Alura C#\obj\Debug\net8.0\Atividades Alura C#.csproj.CoreCompileInputs.cache
+C:\Users\Alfa User\source\repos\Atividades Alura C#\Atividades Alura C#\bin\Debug\net8.0\Atividades Alura C#.exe
+C:\Users\Alfa User\source\repos\Atividades Alura C#\Atividades Alura C#\bin\Debug\net8.0\Atividades Alura C#.deps.json
+C:\Users\Alfa User\source\repos\Atividades Alura C#\Atividades Alura C#\bin\Debug\net8.0\Atividades Alura C#.runtimeconfig.json
+C:\Users\Alfa User\source\repos\Atividades Alura C#\Atividades Alura C#\bin\Debug\net8.0\Atividades Alura C#.dll
+C:\Users\Alfa User\source\repos\Atividades Alura C#\Atividades Alura C#\bin\Debug\net8.0\Atividades Alura C#.pdb
+C:\Users\Alfa User\source\repos\Atividades Alura C#\Atividades Alura C#\obj\Debug\net8.0\Atividades Alura C#.dll
+C:\Users\Alfa User\source\repos\Atividades Alura C#\Atividades Alura C#\obj\Debug\net8.0\refint\Atividades Alura C#.dll
+C:\Users\Alfa User\source\repos\Atividades Alura C#\Atividades Alura C#\obj\Debug\net8.0\Atividades Alura C#.pdb
+C:\Users\Alfa User\source\repos\Atividades Alura C#\Atividades Alura C#\obj\Debug\net8.0\Atividades Alura C#.genruntimeconfig.cache
+C:\Users\Alfa User\source\repos\Atividades Alura C#\Atividades Alura C#\obj\Debug\net8.0\ref\Atividades Alura C#.dll
