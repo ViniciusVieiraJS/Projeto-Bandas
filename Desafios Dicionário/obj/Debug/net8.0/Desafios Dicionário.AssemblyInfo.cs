@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafios Dicionário")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0da65639f8355eeb8cc8265503b3132bd6318f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b292e343eea013ab6a3a18f11dba337185ab8bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafios Dicionário")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desafios Dicionário")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
