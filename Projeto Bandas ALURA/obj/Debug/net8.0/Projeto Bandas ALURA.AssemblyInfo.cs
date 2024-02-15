@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto Bandas ALURA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0da65639f8355eeb8cc8265503b3132bd6318f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8019b0fe5b5475511a0f43174cdd0d3f15394a35")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto Bandas ALURA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto Bandas ALURA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
